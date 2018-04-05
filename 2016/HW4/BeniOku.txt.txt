@@ -1,0 +1,7 @@
+1-)Bu ödevde hocanýn bahsetmiþ olduðu 2 günlük ek süre hakkýmý kullanmak istiyorum.
+2-)Netbeans de Generate Javadoc denildiðinde javadoc baþarýyla oluþturuluyor, ama 
+apidocs klasörüne gidip html dosyalarýna týkladýðýmda görüntü bozuk çýkmakta, galiba
+css dosyalarý bozuk oluþuyor. Eðer sizin denemenizde de ayný hata oluþursa lütfen puan 
+kýrmayýn çünkü javadoc hazýrlamak için epey zaman harcadým ve bu durum Netbeans'in 
+hatasý. 
+Ýyi çalýþmalar...
